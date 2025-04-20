@@ -2,4 +2,4 @@
 
 **Alt** + **Z**----------------------------------(For Word Wrap)
 
-**Alt** + **Click**------------------------------- (By pressing On multiple places, wherever you click, it becomes and you can write in more than one place at a time.)
+**Alt** + **Click**------------------------------- (By pressing On multiple places, wherever you click, it becomes **multiple cursors** and you can write in more than one place at a time.)
