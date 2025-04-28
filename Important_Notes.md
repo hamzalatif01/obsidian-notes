@@ -10,7 +10,7 @@ Go to **Buyer Requests** page in Fiverr and give your pitch to those people that
 After this, you can sell your services by creating an **Instagram** Account, upload any kind of images of your work on your Instagram account, where you talk about websites, then clients start approaching you.
 
 
-#### Generate dummy text in VS Code
+#### **Generate dummy text in VS Code**
 In **Visual Studio Code (VS Code)**, you can easily insert **Lorem Ipsum** (**dummy** text). Just type `lorem` and press **Tab**, and it will auto-generate dummy text. This is useful for designing or testing layouts without needing real content.
 
 **Example:**
